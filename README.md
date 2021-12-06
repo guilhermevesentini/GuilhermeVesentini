@@ -2,8 +2,6 @@
 
 Desenvolvedor Front End / Desenvolvedor Web em formação
 
-Atualmente procurando por estágio / Intership para iniciar minha carreira.
-
 Linguagens & Ferramentas:
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
