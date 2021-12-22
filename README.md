@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Guilherme Vesentini 👋
 
-Desenvolvedor Front End / Desenvolvedor Web em formação
+Desenvolvedor Front End Iniciante / Desenvolvedor Web em formação
 
 Linguagens & Ferramentas:
 
