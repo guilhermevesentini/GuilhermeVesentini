@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Guilherme Vesentini 👋
 
-Desenvolvedor Front End Jr / Desenvolvedor Web em formação
+Analista de Programação Front End Jr
 
 Redes Sociais
 
