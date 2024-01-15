@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Guilherme Vesentini 👋
 
-Analista de Programação Front End Jr
+Analista de Programação Front End
 
 Redes Sociais:
 
