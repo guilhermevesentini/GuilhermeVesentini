@@ -1,9 +1,23 @@
-<h2 align="center">Hi 👋! <br><br>My name is Guilherme Vesentini.<br><br>Currently I'm working as Front-End developer.</h2>
+<h2 align="center">Hi 👋! <br><br>My name is.<br><br>Currently I'm working as .</h2>
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is  Guilherme Vesentini and I'm a Front-End developer</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>🎯 Goals: Reach senior level as Front end developer<br>
 
 ###
 
 <div align="left">
-  <h3 align="center">Tecnologies I've worked with...</h3>
+  <h3 align="center">Tecnologies I know or I've worked with...</h3>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
