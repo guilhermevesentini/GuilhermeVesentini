@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋! <br><br>My name is.<br><br>Currently I'm working as .</h2>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
