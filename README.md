@@ -61,7 +61,6 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/guilhermevesentini/guilhermevesentini/output/snake.svg" alt="Snake animation" />
+![snake animation]([https://github.com](https://github.com/guilhermevesentini)/guilhermevesentini/guilhermevesentini/blob/output/github-contribution-grid-snake2.svg)
 
 ###
