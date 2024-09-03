@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <h3 align="center">Tecnologies I know or I've worked with...</h3>
+  <h3 align="left">Tecnologies I know or I've worked with...</h3>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
