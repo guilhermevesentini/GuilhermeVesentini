@@ -61,6 +61,6 @@
 
 ###
 
-![snake animation]([https://github.com](https://github.com/guilhermevesentini/guilhermevesentini/guilhermevesentini/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/guilhermevesentini/guilhermevesentini/guilhermevesentini/blob/output/github-contribution-grid-snake2.svg)
 
 ###
