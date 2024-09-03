@@ -60,7 +60,3 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511973110037)
 
 ###
-
-![snake animation](https://github.com/guilhermevesentini/guilhermevesentini/blob/output/github-contribution-grid-snake2.svg)
-
-###
